@@ -38,7 +38,7 @@ As a devoted Buddhist, I'm on a mission to:
 1. Launch **Dhamma-GPT** with a **blue color scheme**.
 2. Learn more about **Theravada** and **Mahayana Buddhism**.
 3. Master advanced **AI** and **game development** concepts.
-4. Explore **Chinese payment gateways** and their applications in India.
+4. Explore **payment gateways** and their applications in India.
 
 ---
 
