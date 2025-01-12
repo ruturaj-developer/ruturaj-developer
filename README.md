@@ -44,7 +44,6 @@ As a devoted Buddhist, I'm on a mission to:
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Ruturaj Umale](https://www.linkedin.com/in/ruturaj-umale/)
 - **Website**: [UB Future Tech](https://ubfuturetech.com/)
 - **Email**: [ruturaj@ubfuturetech.com](mailto:ruturaj@ubfuturetech.com)
 
