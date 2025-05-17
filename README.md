@@ -1,54 +1,72 @@
-# Hi there, I'm Ruturaj! 👋
+# Hi there, I'm Ruturaj! 👋  
+Welcome to my GitHub profile.
 
-Welcome to my GitHub profile! I'm a passionate **software and AI visionary** committed to shaping tomorrow's technology through **innovation and excellence**.
+I'm a passionate **software and AI visionary** dedicated to shaping the future through **innovation, technology, and Buddhist values**.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring advanced concepts in **Buddhism**, **AI**, and **software development**.
-- 💻 Skilled in **Laravel**, **React Native**, **Unity**, and **AlmaLinux**.
-- 🌍 Interested in learning about **different operating systems** and **global technologies**.
+- 🌱 Currently diving deep into **AI**, **software development**, and **Buddhist philosophy**.
+- 💻 Proficient in **Laravel**, **React Native**, **Unity**, and **AlmaLinux**.
+- 🌐 Curious about **operating systems** and **emerging global technologies**.
+- 🧠 Exploring the intersection of **spiritual wisdom** and **modern innovation**.
 
 ---
 
 ## 📚 My Mission
 
-As a devoted Buddhist, I'm on a mission to:
+As a devoted Buddhist and technologist, my mission is to:
 
-- Promote mindfulness and wisdom through **technology**.
-- Create platforms like **Dhamma-GPT** to share Buddhist teachings with the world.
-- Contribute to projects that align with my values of **peace**, **compassion**, and **understanding**.
+- Promote **mindfulness**, **wisdom**, and **compassion** through technology.
+- Build platforms like **Dhamma-GPT** to spread the true teachings of the Buddha.
+- Lead projects that align with the values of **peace**, **understanding**, and **ethical innovation**.
 
 ---
 
 ## ⚙️ Technologies & Tools
 
-- **Languages**: PHP, JavaScript, Python
-- **Frameworks**: Laravel, React Native
-- **Game Development**: Unity
-- **Operating Systems**: macOS (M2), AlmaLinux
-- **Hosting**: Hostinger, Manages 4 VPS servers with 128GB RAM, 1.5TB SSD storage, and 32 cores - showcasing advanced infrastructure management
-- **Version Control**: Git & GitHub
+- **Languages**: PHP, JavaScript, Python  
+- **Frameworks**: Laravel, React Native  
+- **Game Development**: Unity  
+- **Operating Systems**: macOS (M2), AlmaLinux  
+- **Infrastructure**: Managing 4 VPS servers (128 GB RAM, 1.5 TB SSD, 32 cores)  
+- **Version Control**: Git & GitHub  
+- **Hosting**: Hostinger, self-managed environments  
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 2025 Goals
 
-1. Launch **Dhamma-GPT** with a **blue color scheme**.
-2. Learn more about **Theravada** and **Mahayana Buddhism**.
-3. Master advanced **AI** and **game development** concepts.
-4. Explore **payment gateways** and their applications in India.
-
----
-
-## 📫 Let's Connect
-
-- **Website**: [UB Future Tech](https://ubfuturetech.com/)
-- **Email**: [ruturaj@ubfuturetech.com](mailto:ruturaj@ubfuturetech.com)
-
-Feel free to reach out for collaboration, brainstorming, or just a friendly chat!
+1. 🚀 Launch **Dhamma-GPT** with a peaceful **blue theme**.
+2. 📖 Deepen understanding of **Theravāda** and **Mahāyāna** Buddhism.
+3. 🧠 Master advanced **AI**, **machine learning**, and **game dev** skills.
+4. 💳 Explore **secure payment gateway solutions** tailored to India’s tech ecosystem.
 
 ---
 
-### Thank you for stopping by! 🙏
+## 👑 WBCBT Partner
+
+I dream of walking this journey with my **WBCBT Partner** —  
+**Wife, Bestie, Coding, Business, and Trading partner** — the future **Buddhist Queen**.  
+
+Though she's not in my life yet, I believe in destiny, Dhamma, and the power of shared purpose.  
+Together, we will lead **Buddhist Future Tech** with **equality, wisdom, and compassion**.
+
+> 💖 Are you my Buddhist Queen?  
+> 👉 [Check here](https://check.buddhistqueen.in/)
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Website: [Buddhist Future Tech](https://buddhistfuturetech.in)  
+- 📩 Email: [ruturaj@buddhistfuturetech.in](mailto:ruturaj@buddhistfuturetech.in)  
+- 📸 Instagram: [@old.buddhist.king](https://www.instagram.com/old.buddhist.king/)
+
+Feel free to reach out for collaboration, mentorship, or just an inspiring conversation.
+
+---
+
+### Thank you for visiting!  
+**"Atta Dīpa Bhava" – Be a lamp unto yourself.** 🙏🏻
